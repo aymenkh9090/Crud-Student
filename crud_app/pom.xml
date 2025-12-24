@@ -11,7 +11,7 @@
 	<groupId>com.aymen</groupId>
 	<artifactId>crud_app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>crud_app</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
@@ -47,6 +47,8 @@
 		<dependency>
 			<groupId>com.itextpdf</groupId>
 			<artifactId>itextpdf</artifactId>
+			<version>5.5.13.3</version>
+
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect -->
